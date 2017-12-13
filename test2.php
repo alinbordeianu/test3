@@ -1,6 +1,6 @@
 <?php
 
-echo 'Invat git test2 GIT'; 
+echo 'Invat git test2 GIT1'; 
 
 
 
