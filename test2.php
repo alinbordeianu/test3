@@ -1,6 +1,7 @@
 <?php
 
-echo 'Acesta este un fisier de test'; 
+echo 'Invat git test2 GIT'; 
+
 
 
 
